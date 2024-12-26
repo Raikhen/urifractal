@@ -3,7 +3,7 @@ import turtle
 
 pen = turtle.Turtle()
 pen.ht()
-pen.speed(5000)
+pen.speed(20000000)
 pen.pencolor('black')
 
 class Line:
